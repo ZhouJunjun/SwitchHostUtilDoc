@@ -40,6 +40,4 @@ https://github.com/ZhouJunjun/SwitchHostUtilDoc/releases
      #192.168.0.42 d.com
      #====
      ```
-
-
-![image-20231120160138720](./image/1.png)![image-20231120160455547](./image/2.png)
+     ![image-20231120160138720](./image/1.png)![image-20231120160455547](./image/2.png)
