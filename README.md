@@ -2,6 +2,7 @@
 
 #### 下载
 
+最新版1.0.2
 https://github.com/ZhouJunjun/SwitchHostUtilDoc/releases
 
 
