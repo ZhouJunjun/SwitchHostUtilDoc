@@ -15,7 +15,7 @@ https://github.com/ZhouJunjun/SwitchHostUtilDoc/releases
 
      Other: /etc/hosts
 
-2.   Window系统可以直接下载exe；IOS需要先安装JDK8，再执行jar文件
+2.   需要先安装JDK8+，再执行jar文件
 
 3.   分组格式
 
